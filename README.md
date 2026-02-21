@@ -67,3 +67,22 @@ Example Data:
 ## 🚀 How to Run
 
 1. Clone the repository:
+2. 2. Open `webscraping.ipynb` in Jupyter Notebook or Google Colab
+
+3. Run all cells
+
+---
+
+## 🎯 Learning Outcomes
+
+- Understanding of Web Scraping
+- HTML Parsing
+- Data Cleaning using Pandas
+- Data Visualization
+- CSV file handling
+- Real-world data pipeline creation
+
+---
+
+## 👨‍💻 Author
+Vaishnavi Bhosale
